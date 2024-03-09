@@ -1,1 +1,2 @@
-# pslm2019-20
+# Pakistan Social & Living Standards Survey 2019-20 (District Level)
+This repository provides a detailed guide on merging all files related to [Pakistan Social & Living Standards Survey 2019-20 (District Level)]([https://link-url-here.org](https://www.pbs.gov.pk/publication/pakistan-social-and-living-standards-measurement-survey-pslm-2019-20-provincial)https://www.pbs.gov.pk/publication/pakistan-social-and-living-standards-measurement-survey-pslm-2019-20-provincial) using [Stata](https://www.stata.com/). It ensures a reproducible workflow, encompassing everything from obtaining the raw data to generating the final master dataset—all within Stata.
