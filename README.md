@@ -14,37 +14,42 @@ Stata license: Unlimited-user 2-core network
 ## Data Files
 The following outlines sections within the survey, each addressing specific domains such as demographic characteristics, education, health, employment, household assets, household amenities, population welfare, and water supply & sanitation. 
 
+| SNo. | Title                                                                    | Section |
+|------|--------------------------------------------------------------------------|---------|
+| 1    | Survey Information                                                       | A       |
+| 2    | Household Roster (List Of Household Members)                             | B - 1   |
+| 3    | Migration And Functional Limitation (Disability (All Household Members)) | B - 2   |
+| 4    | Education (All Male & Females And Children 3 Years & Older)              | C - 1   |
+| 5    | Information Communication Technology (All Members)                       | C - 2   |
+| 6    | Health (All Household Members)                                           | D       |
+| 7    | Employment And Income (All Males And Females 10 Year Of Age And Older)   | E       |
+| 8    | Household Characteristics (Housing)                                      | F - 1   |
+| 9    | Household Characteristics (Water Sanitation And Hygiene)                 | F - 2   |
+| 10   | Household Characteristics (Solid Waste Management)                        | F - 3   |
+| 11   | Assets In Possession                                                      | G       |
+| 12   | Selected Durable Items Owned By The Household                             | H       |
+| 13   | Vaccination And Diarrhoea (Children Under 5 Years Of Age)                 | I       |
+| 14   | Pre And Post-Natal Care (All Ever Married Women Aged 15 - 49)             | J       |
+| 15   | Food Insecurity Experience Scale (Fies)                                   | K       |
+| 16   | Benefits From Services And Facilities                                     | L       |
 
-01. **Section A &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** SURVEY INFORMATION
-02. **Section B - 1 &nbsp; :&nbsp;** HOUSEHOLD ROSTER (LIST OF HOUSEHOLD MEMBERS) 
-03. **Section B - 2 &nbsp; :&nbsp;** MIGRATION AND FUNCTIONAL LIMITATION (DISABILITY (ALL HOUSEHOLD MEMBERS)
-04. **Section C - 1 &nbsp; :&nbsp;** EDUCATION (ALL MALE & FEMALES AND CHILDREN 3 YEARS & OLDER)
-05. **Section C - 2 &nbsp; :&nbsp;** INFORMATION COMMUNICATION TECHNOLOGY (ALL MEMBERS) 
-06. **Section D &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** HEALTH (ALL HOUSEHOLD MEMBERS) 
-07. **Section E &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** EMPLOYMENT AND INCOME (ALL MALES AND FEMALES 10 YEAR OF AGE AND OLDER) 
-08. **Section F - 1 &nbsp; :&nbsp;** HOUSEHOLD CHARACTERISTICS (HOUSING)
-09. **Section F - 2 &nbsp; :&nbsp;** HOUSEHOLD CHARACTERISTICS (WATER SANITATION AND HYGIENE) 
-10. **Section F - 3 &nbsp; :&nbsp;** HOUSEHOLD CHARACTERISTICS (SOLID WASTE MANAGEMENT)
-11. **Section G &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** ASSETS IN POSSESSION
-12. **Section H &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** SELECTED DURABLE ITEMS OWNED BY THE HOUSEHOLD 
-13. **Section I &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;** Vaccination And Diarrhoea (Children Under 5 Years Of Age)
-14. **Section J &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;** PRE AND POST-NATAL CARE (ALL EVER MARRIED WOMEN AGED 15 - 49) 
-15. **Section K &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** FOOD INSECURITY EXPERIENCE SCALE (FIES) 
-16. **Section L &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** BENEFITS FROM SERVICES AND FACILITIES
 
 
 
 We've divided files based on the Unit of Analysis to combine them. The first set contains files where the unit of analysis can be household members.  Look at the data flow chart for file relationships and the merging flow diagram for further details. 
 ### Data Flow Chart (Unit of Analysis - Household Members)
 
-01. **Section B - 1 &nbsp; :&nbsp;** HOUSEHOLD ROSTER (LIST OF HOUSEHOLD MEMBERS) 
-02. **Section B - 2 &nbsp; :&nbsp;** MIGRATION AND FUNCTIONAL LIMITATION (DISABILITY (ALL HOUSEHOLD MEMBERS)
-03. **Section C - 1 &nbsp; :&nbsp;** EDUCATION (ALL MALE & FEMALES AND CHILDREN 3 YEARS & OLDER)
-04. **Section C - 2 &nbsp; :&nbsp;** INFORMATION COMMUNICATION TECHNOLOGY (ALL MEMBERS) 
-05. **Section D &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** HEALTH (ALL HOUSEHOLD MEMBERS) 
-06. **Section E &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** EMPLOYMENT AND INCOME (ALL MALES AND FEMALES 10 YEAR OF AGE AND OLDER) 
-07. **Section I &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;** Vaccination And Diarrhoea (Children Under 5 Years Of Age)
-08. **Section J &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;** PRE AND POST-NATAL CARE (ALL EVER MARRIED WOMEN AGED 15 - 49) 
+| SNo. | Title                                                                    | Section |
+|------|--------------------------------------------------------------------------|---------|
+| 1    | Household Roster (List Of Household Members)                             | B - 1   |
+| 2    | Migration And Functional Limitation (Disability (All Household Members)) | B - 2   |
+| 3    | Education (All Male & Females And Children 3 Years & Older)              | C - 1   |
+| 4    | Information Communication Technology (All Members)                       | C - 2   |
+| 5    | Health (All Household Members)                                           | D       |
+| 6    | Employment And Income (All Males And Females 10 Year Of Age And Older)   | E       |
+| 7    | Vaccination And Diarrhoea (Children Under 5 Years Of Age)                | I       |
+| 8    | Pre And Post-Natal Care (All Ever Married Women Aged 15 - 49)            | J       |
+
 
 
 
