@@ -14,6 +14,75 @@ Stata license: Unlimited-user 2-core network
 ## Data Files
 The following outlines sections within the survey, each addressing specific domains such as demographic characteristics, education, health, employment, household assets, household amenities, population welfare, and water supply & sanitation. 
 
++-------+----------------------------------------------+-------------+
+|       |                                              |             |          
+|   Ch. |   Title                                      | Ch. Acronym | 
+|       |                                              |             |                              
++-------+----------------------------------------------+-------------+
+|       |                                              |             |                            
+|   1   |   SURVEY INFORMATION                        |   SI        |      
+|       |                                              |             |                             
++-------+----------------------------------------------+-------------+
+|       |                                              |             |                               
+|   2   |   HOUSEHOLD ROSTER (LIST OF HOUSEHOLD       |   HR        |      
+|       |   MEMBERS)                                   |             |                     
++-------+----------------------------------------------+-------------+
+|       |                                              |             |             
+|   3   |   MIGRATION AND FUNCTIONAL LIMITATION       |   MFL       |       
+|       |   (DISABILITY (ALL HOUSEHOLD MEMBERS)       |             |       
++-------+----------------------------------------------+-------------+
+|       |                                              |             |            
+|   4   |   EDUCATION (ALL MALE & FEMALES AND         |   E         |     
+|       |   CHILDREN 3 YEARS & OLDER)                 |             |            
++-------+----------------------------------------------+-------------+
+|       |                                              |             |          
+|   5   |   INFORMATION COMMUNICATION TECHNOLOGY      |   ICT       |     
+|       |   (ALL MEMBERS)                             |             |           
++-------+----------------------------------------------+-------------+
+|       |                                              |             |           
+|   6   |   HEALTH (ALL HOUSEHOLD MEMBERS)            |   H         |        
+|       |                                              |             |           
++-------+----------------------------------------------+-------------+
+|       |                                              |             |             
+|   7   |   EMPLOYMENT AND INCOME (ALL MALES AND      |   EI        |     
+|       |   FEMALES 10 YEAR OF AGE AND OLDER)         |             |             
++-------+----------------------------------------------+-------------+
+|       |                                              |             |           
+|   8   |   HOUSEHOLD CHARACTERISTICS (HOUSING)       |   HC(H)     |     
+|       |                                              |             |            
++-------+----------------------------------------------+-------------+
+|       |                                              |             |           
+|   9   |   HOUSEHOLD CHARACTERISTICS (WATER          |   HC(W)     |    
+|       |   SANITATION AND HYGIENE)                   |             |           
++-------+----------------------------------------------+-------------+
+|       |                                              |             |    
+|   10  |   HOUSEHOLD CHARACTERISTICS (SOLID WASTE    |   HC(SW)    |    
+|       |   MANAGEMENT)                                |             |           
++-------+----------------------------------------------+-------------+
+|       |                                              |             |            
+|   11  |   ASSETS IN POSSESSION                      |   AIP       |     
+|       |                                              |             |          
++-------+----------------------------------------------+-------------+
+|       |                                              |             |        
+|   12  |   SELECTED DURABLE ITEMS OWNED BY THE       |   SDI       |     
+|       |   HOUSEHOLD                                 |             |          
++-------+----------------------------------------------+-------------+
+|       |                                              |             |        
+|   13  |   Vaccination And Diarrhoea                 |   VD        |    
+|       |   (Children Under 5 Years Of Age)           |             |            
++-------+----------------------------------------------+-------------+
+|       |                                              |             |           
+|   14  |   PRE AND POST-NATAL CARE                   |   PPNC      |    
+|       |   (ALL EVER MARRIED WOMEN AGED 15 - 49)     |             |            
++-------+----------------------------------------------+-------------+
+|       |                                              |             |            
+|   15  |   FOOD INSECURITY EXPERIENCE SCALE (FIES)   |   FIES      |     
+|       |                                              |             |            
++-------+----------------------------------------------+-------------+
+|       |                                              |             |           
+|   16  |   BENEFITS FROM SERVICES AND FACILITIES     |   BSF       |     
+|       |                                              |             |            
++-------+----------------------------------------------+-------------+
 
 01. **Section A &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;** SURVEY INFORMATION
 02. **Section B - 1 &nbsp; :&nbsp;** HOUSEHOLD ROSTER (LIST OF HOUSEHOLD MEMBERS) 
